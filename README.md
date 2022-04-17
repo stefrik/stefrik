@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefrik
 - 👀 I’m interested in cars, drums and codes
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any app-building related to Python
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate to create some cool web apps
 
 
 <!---
